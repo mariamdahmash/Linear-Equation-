@@ -1,0 +1,4 @@
+﻿  project.cpp
+D:\courses\SW fundimntal\Sheets\project\project\project.cpp(150,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\courses\SW fundimntal\Sheets\project\project\project.cpp(153,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  project.vcxproj -> D:\courses\SW fundimntal\Sheets\project\x64\Debug\project.exe
